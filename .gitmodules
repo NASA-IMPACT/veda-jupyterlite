@@ -1,0 +1,6 @@
+[submodule "content/veda-interactive-fire"]
+	path = content/veda-interactive-fire
+	url = https://github.com/nasa-impact/veda-interactive-fire
+[submodule "content/veda-interactive-emission-plumes"]
+	path = content/veda-interactive-emission-plumes
+	url = https://github.com/nasa-impact/veda-interactive-emission-plumes
